@@ -1,4 +1,4 @@
-Awesome—here’s a **GitHub-ready, Amazon Linux–specific Chef pack** (Apache, NGINX, MariaDB, Docker) with correct package/service names and a simple way to run each cookbook locally on an EC2 instance.
+Amazon Linux–specific Chef pack** (Apache, NGINX, MariaDB, Docker) with correct package/service names and a simple way to run each cookbook locally on an EC2 instance.
 
 ---
 
